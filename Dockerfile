@@ -1,4 +1,4 @@
-FROM simatei/enketo-express:latest
+FROM simatei/enketo-express:dev-847b431
 
 # GitHub Actions adds an authentication header to the Git configuration,
 # which prevents us from installing Node modules in *public* GitHub
